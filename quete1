@@ -1,0 +1,29 @@
+
+COMMUN+8609930V@5CD1343GB5 MINGW64 ~
+$ ls
+'3D Objects'/             NTUSER.DAT
+ AppData/                 ntuser.dat.LOG1
+'Application Data'@       ntuser.dat.LOG2
+ Contacts/                NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ Cookies@                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ Desktop/                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ Documents/               ntuser.ini
+ Downloads/               OneDrive/
+ Favorites/               Pictures/
+ IntelGraphicsProfiles/   Recent@
+ Links/                  'Saved Games'/
+'Local Settings'@         Searches/
+'Menu Démarrer'@          SendTo@
+'Mes documents'@          Videos/
+ Modèles@                "Voisinage d'impression"@
+ Music/                  'Voisinage réseau'@
+
+COMMUN+8609930V@5CD1343GB5 MINGW64 ~
+$ pwd
+/c/Users/8609930V
+
+COMMUN+8609930V@5CD1343GB5 MINGW64 ~
+$ cd ~/downloads
+
+COMMUN+8609930V@5CD1343GB5 MINGW64 ~/downloads
+$
